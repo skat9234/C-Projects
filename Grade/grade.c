@@ -39,11 +39,4 @@ int main(void) {
     
     printf("%i", grade);
 
-}
-
-// Grades
-// greater than equal to 90 - A
-// Between 70 and 89 - B
-// Between 50 and 69 - C
-// Between 30 and 49 - D
-// Lower than 30 - Fail                                                                                              
+}                                                                                           
