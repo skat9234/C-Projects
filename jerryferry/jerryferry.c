@@ -6,6 +6,6 @@ int main(void) {
     char string1[] = "Jerry", string2[] = "Ferry";
     i = strcmp(string1, "Jerry");
     j = strcmp(string1, string2);
-    k = strcmp(string1, "Leroy");
+    k = strcmp(string1, "Jerry boy");
     printf("%d%d%d\n", i,j,k);
 }
