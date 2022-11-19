@@ -63,3 +63,18 @@ int main(void) {
     char a[] = "hELLO tHERE";
     change(a);
 }
+
+// Arrays and FUnctions
+// Array Definition and declaration of 1d arrays
+// Funftions
+//Function Definition and Declaration
+// Local and Global Var
+// Parameter passing called by value
+// Passing Array Elemets to a function
+// Passing Entire Arrays to a Function
+// Standard LibraryString Functions
+// strlen() | strcpy() | strcmp | strcap()
+// Math
+// log, log10, pow(), sqrt(), sin(), cos(), tan()
+// Char Functions
+// isdigit isAlpha, islower, isalnum, toupper, tolower
