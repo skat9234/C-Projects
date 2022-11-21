@@ -13,3 +13,7 @@ You can get started in three steps:
  - Copy the repository url to the text field
  - Choose where you want to save the folder
  - Click "Clone"!
+
+ # Individual File
+ - Go to the required folder 
+ - Copy code
