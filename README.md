@@ -48,8 +48,33 @@ You can get started in three steps:
 - Fibonacci Series
 - Reversal Of A Number using do while loop
 - Find the summation of first 10 Even numbers 
-- Factorial Of A Number using for loop
-- n Prime Numbers using break and continue
+- Factorial Of A Number using for loop (factorial)
+- Generation of n Prime Numbers using break and continue (nprime)
+- Write a c program to display the number of days in a given month (daysofmonth)
+- Area of Sphere and Cone (area_spco)
+- Smallest Number in an array (smallestinarray)
+- Insertion and deletion of a number in an array (array_crud)
+- Linear Search (linearsearch)
+- Bubble Sort (bubblesort)
+- Sum of row and column in a matrix (matrixsum)
+- Transpose of a matrix
+- Swapping using Call by Reference (swapr)
+- String Example 1 (vowels)
+- Pallindrome of a String (pallindrome)
 
+# Programs for Final Exams
+- Linear Search
+- Finding the smallest no. in an array
+- Smallest Number in an array (smallestinarray)
+- Linear Search (linearsearch)
+- String Example 1 (vowels)
+- Swapping using Call by Reference (swapr)
 
-
+# Portion for Final Exam
+- Arrays and Functions
+- Dynamic Data Structures
+- Stdlib Functions
+- Math Functions
+- Character Functions
+- String Functions
+- Pointers and Structures
