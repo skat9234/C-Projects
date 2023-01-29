@@ -7,7 +7,7 @@
 int main(void) {
     int m,n,i,j;
     printf("\n Enter the no. of Rows and Columns: ");
-    scanf("&d &d", &m, &n);
+    scanf("%d %d", &m, &n);
     int arr[m][n];
     printf("\n Enter the Elements of the matrix \n");
     for (i=0; i<n; i++) {
