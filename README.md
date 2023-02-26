@@ -71,10 +71,32 @@ You can get started in three steps:
 - Swapping using Call by Reference (swapr)
 
 # Portion for Final Exam
-- Arrays and Functions
-- Dynamic Data Structures
-- Stdlib Functions
-- Math Functions
-- Character Functions
-- String Functions
-- Pointers and Structures
+### Arrays & Functions
+- Array Definition & Declaration of 1-D Array
+- Linear Search Program
+- Function Definition & Why they are important in C Programs
+- Difference b/w local and global variables with an example
+- Call by Value and Call by Reference
+- Passing Array elements to a function
+- Passing a whole Array to a function
+- Standard Library Functions:
+  strlen()
+  strcpy()
+  strcmp()
+  strcat()
+  log()
+  log10()
+  pow()
+  sqrt()
+  sin() cos() tan()
+  abs()
+  isalnum()
+  islower()
+  isupper()
+  toupper()
+  tolower()
+  
+### Pointers and Dynamic Data Structures
+ - Dynamic Allocation of Memory (Malloc & Directly taking the value) - No Theory
+ - Basics of Structures (How they are better than Arrays)
+ - Structure Declaration, Nesting & Array of Structures (with eg)
